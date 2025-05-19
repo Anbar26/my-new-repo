@@ -39,7 +39,7 @@ W.E.A.L.T.H is a modern web application designed to help users track and manage 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/17arhaan/WEALTH.git
+git clone https://github.com/Anbar26/WEALTH.git
 cd WEALTH
 ```
 
@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Arhaan Girdhar** - [17arhaan](https://github.com/Anbar26)
+- **Anbar Althaf** - [Anbar26](https://github.com/Anbar26)
 
 ## Acknowledgments
 
