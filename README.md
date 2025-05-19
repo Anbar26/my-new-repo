@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Arhaan Girdhar** - [17arhaan](https://github.com/17arhaan)
+- **Arhaan Girdhar** - [17arhaan](https://github.com/Anbar26)
 
 ## Acknowledgments
 
