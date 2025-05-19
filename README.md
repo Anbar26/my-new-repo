@@ -1,6 +1,6 @@
 # W.E.A.L.T.H - Web-based Expense and Account Ledger for Tracking Habits
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F17arhaan%2FWEALTH)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAnbar26%2FWEALTH)
 
 ## Overview
 
